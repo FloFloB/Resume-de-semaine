@@ -1,4 +1,4 @@
-# Résumé des semaine 30
+# Résumé de semaine 30
 
   - Essai d'écriture d'un algorithme de Machine de Boltzmann restreinte et d'un LSTM (Long short term memory) sous R. Je pense qu'il y a quelques petits problèmes d'optimisation.
   - Observation des données du [Défi EGC](http://www.egc.asso.fr/Manifestations_dEGC/71-FR-Defi_EGC) concernant les données solaires.
